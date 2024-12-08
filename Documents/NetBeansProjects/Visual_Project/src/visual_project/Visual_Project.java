@@ -17,7 +17,6 @@ public class Visual_Project {
         obsislbl.setBounds(240, 50, 150, 30);
 
         new LogIn(mainframe);
-
         
         mainframe.setVisible(true);
     }
