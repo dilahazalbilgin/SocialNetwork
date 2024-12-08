@@ -15,6 +15,7 @@ public class Visual_Project {
         JLabel obsislbl = new JLabel("OBISIS");
         obsislbl.setFont(new Font("OBISIS", Font.BOLD, 30));
         obsislbl.setBounds(240, 50, 150, 30);
+        
         new LogIn(mainframe);
         
         mainframe.setVisible(true);
