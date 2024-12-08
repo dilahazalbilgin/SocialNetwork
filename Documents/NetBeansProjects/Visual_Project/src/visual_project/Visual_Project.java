@@ -18,6 +18,7 @@ public class Visual_Project {
         
         new LogIn(mainframe);
         
+        
         mainframe.setVisible(true);
     }
 }
