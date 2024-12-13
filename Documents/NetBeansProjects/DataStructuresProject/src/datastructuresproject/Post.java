@@ -1,5 +1,6 @@
 package datastructuresproject;
 public class Post {
+    
     private String content;
     private long timestamp;
     private int userId;
